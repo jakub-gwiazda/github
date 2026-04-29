@@ -11,7 +11,7 @@ void usage(char *programName) {
     printf("\tdivide\n");
     printf("\n");
 }
-
+//kabala
 int main(int argc, char* argv[]) {
 
     int number1 = 0;
